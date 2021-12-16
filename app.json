@@ -1,0 +1,25 @@
+{
+  "id": "799a3211-d232-4142-98a3-64e6acf956fd",
+  "name": "BCP POLines BC18",
+  "publisher": "BC Price",
+  "version": "18.0.0.2",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}
